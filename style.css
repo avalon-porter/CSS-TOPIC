@@ -1,0 +1,43 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body {
+  font-family: Arial, serif;
+  color: #333;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: #000000;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+h2 {
+  color: #000000;
+  font-size: 2rem;
+  text-decoration: underline;
+}
+p {
+  color: black;
+  font-size: 1.5rem;
+}
+article {
+  max-width: 48em;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
